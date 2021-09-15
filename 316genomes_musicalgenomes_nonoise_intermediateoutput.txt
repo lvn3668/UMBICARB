@@ -1,0 +1,2392 @@
+ClusterId 316 
+SS PER SITE FOR CLUSTER NO.316
+aero pyro value 0.810220 
+aero stok value 0.337934 
+pyro aero value 0.810220 
+pyro stok value 0.788005 
+stok aero value 0.337934 
+stok pyro value 0.788005 
+Note that to account for clockrates tending to zero, 1e-10 has been added to each clockrate value to eliminate division by zero 
+**************************************************
+Calculating residuals for pyro 
+Calculating residuals for pyro at spyo 
+Current Residual Value 0 
+distance->(aero)->(spyo) = 0.96171 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 7.68182548317881e-07 
+Current Residual Value 7.68182548317881e-07 
+distance->(stok)->(spyo) = 0.97046 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00129468493752131 
+Residual for pyro at spyo is 0.00129468493752131 
+Calculating residuals for pyro at bhal 
+Current Residual Value 0 
+distance->(aero)->(bhal) = 0.94306 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.000315898715681069 
+Current Residual Value 0.000315898715681069 
+distance->(stok)->(bhal) = 0.95181 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.000615917641365439 
+Residual for pyro at bhal is 0.000615917641365439 
+Calculating residuals for pyro at spneu 
+Current Residual Value 0 
+distance->(aero)->(spneu) = 0.96356 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 7.43358542791086e-06 
+Current Residual Value 7.43358542791086e-06 
+distance->(stok)->(spneu) = 0.97231 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00143786574169763 
+Residual for pyro at spneu is 0.00143786574169763 
+Calculating residuals for pyro at mtub_cdc 
+Current Residual Value 0 
+distance->(aero)->(mtub_cdc) = 1.04275 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00671030645787926 
+Current Residual Value 0.00671030645787926 
+distance->(stok)->(mtub_cdc) = 1.0515 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.020401893310737 
+Residual for pyro at mtub_cdc is 0.020401893310737 
+Calculating residuals for pyro at sent 
+Current Residual Value 0 
+distance->(aero)->(sent) = 0.96173 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 8.03640957827029e-07 
+Current Residual Value 8.03640957827029e-07 
+distance->(stok)->(sent) = 0.97048 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.001296159638107 
+Residual for pyro at sent is 0.001296159638107 
+Calculating residuals for pyro at styp 
+Current Residual Value 0 
+distance->(aero)->(styp) = 0.96067 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 2.6745253844023e-08 
+Current Residual Value 2.6745253844023e-08 
+distance->(stok)->(styp) = 0.96942 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00122020530706543 
+Residual for pyro at styp is 0.00122020530706543 
+Calculating residuals for pyro at paer 
+Current Residual Value 0 
+distance->(aero)->(paer) = 0.96638 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 3.07632211686963e-05 
+Current Residual Value 3.07632211686963e-05 
+distance->(stok)->(paer) = 0.97513 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00168245852427992 
+Residual for pyro at paer is 0.00168245852427992 
+Calculating residuals for pyro at nmenA 
+Current Residual Value 0 
+distance->(aero)->(nmenA) = 0.98804 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.000740191478667068 
+Current Residual Value 0.000740191478667068 
+distance->(stok)->(nmenA) = 0.99679 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00462161285858212 
+Residual for pyro at nmenA is 0.00462161285858212 
+Calculating residuals for pyro at uure 
+Current Residual Value 0 
+distance->(aero)->(uure) = 1.11235 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.0229572377229709 
+Current Residual Value 0.0229572377229709 
+distance->(stok)->(uure) = 1.1211 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.0577809233489379 
+Residual for pyro at uure is 0.0577809233489379 
+Calculating residuals for pyro at hinf 
+Current Residual Value 0 
+distance->(aero)->(hinf) = 0.96483 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 1.59716944317395e-05 
+Current Residual Value 1.59716944317395e-05 
+distance->(stok)->(hinf) = 0.97358 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00154408222888894 
+Residual for pyro at hinf is 0.00154408222888894 
+Calculating residuals for pyro at vcho 
+Current Residual Value 0 
+distance->(aero)->(vcho) = 0.96273 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 3.59656143328268e-06 
+Current Residual Value 3.59656143328268e-06 
+distance->(stok)->(vcho) = 0.97148 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.0013719346673915 
+Residual for pyro at vcho is 0.0013719346673915 
+Calculating residuals for pyro at pmul 
+Current Residual Value 0 
+distance->(aero)->(pmul) = 0.96157 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 5.42373681754216e-07 
+Current Residual Value 5.42373681754216e-07 
+distance->(stok)->(pmul) = 0.97032 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00128440683342148 
+Residual for pyro at pmul is 0.00128440683342148 
+Calculating residuals for pyro at rsol 
+Current Residual Value 0 
+distance->(aero)->(rsol) = 0.98585 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.000625823282825819 
+Current Residual Value 0.000625823282825819 
+distance->(stok)->(rsol) = 0.9946 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00423916214444908 
+Residual for pyro at rsol is 0.00423916214444908 
+Calculating residuals for pyro at aero 
+Current Residual Value 0 
+distance->(aero)->(aero) = 0 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.923201091132098 
+Current Residual Value 0.923201091132098 
+distance->(stok)->(aero) = 0.46887 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 1.14000209362954 
+Residual for pyro at aero is 1.14000209362954 
+Calculating residuals for pyro at bbur 
+Current Residual Value 0 
+distance->(aero)->(bbur) = 1.04596 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00724651423260546 
+Current Residual Value 0.00724651423260546 
+distance->(stok)->(bbur) = 1.05471 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.0216996161547402 
+Residual for pyro at bbur is 0.0216996161547402 
+Calculating residuals for pyro at hbsp 
+Current Residual Value 0 
+distance->(aero)->(hbsp) = 0.67166 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.0836213360986424 
+Current Residual Value 0.0836213360986424 
+distance->(stok)->(hbsp) = 0.68041 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.148177446693553 
+Residual for pyro at hbsp is 0.148177446693553 
+Calculating residuals for pyro at mlep 
+Current Residual Value 0 
+distance->(aero)->(mlep) = 1.05698 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00924414181624499 
+Current Residual Value 0.00924414181624499 
+distance->(stok)->(mlep) = 1.06573 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.0264683561774554 
+Residual for pyro at mlep is 0.0264683561774554 
+Calculating residuals for pyro at cpneuC 
+Current Residual Value 0 
+distance->(aero)->(cpneuC) = 1.06374 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.010589739558659 
+Current Residual Value 0.010589739558659 
+distance->(stok)->(cpneuC) = 1.07249 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.0296340305754185 
+Residual for pyro at cpneuC is 0.0296340305754185 
+Calculating residuals for pyro at ctraM 
+Current Residual Value 0 
+distance->(aero)->(ctraM) = 1.06652 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.0111696278775808 
+Current Residual Value 0.0111696278775808 
+distance->(stok)->(ctraM) = 1.07527 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.0309889331568294 
+Residual for pyro at ctraM is 0.0309889331568294 
+Calculating residuals for pyro at aful 
+Current Residual Value 0 
+distance->(aero)->(aful) = 0.57185 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.151308194205987 
+Current Residual Value 0.151308194205987 
+distance->(stok)->(aful) = 0.5806 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.276545580020667 
+Residual for pyro at aful is 0.276545580020667 
+Calculating residuals for pyro at ypes 
+Current Residual Value 0 
+distance->(aero)->(ypes) = 0.9603 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 2.84664677925375e-07 
+Current Residual Value 2.84664677925375e-07 
+distance->(stok)->(ypes) = 0.96905 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00119475114623017 
+Residual for pyro at ypes is 0.00119475114623017 
+Calculating residuals for pyro at stok 
+Current Residual Value 0 
+distance->(aero)->(stok) = 0.46887 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.242028124455425 
+Current Residual Value 0.242028124455425 
+distance->(stok)->(stok) = 0 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 1.11529771389558 
+Residual for pyro at stok is 1.11529771389558 
+Calculating residuals for pyro at nmen 
+Current Residual Value 0 
+distance->(aero)->(nmen) = 0.98787 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.000730970182186241 
+Current Residual Value 0.000730970182186241 
+distance->(stok)->(nmen) = 0.99662 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00459123810360375 
+Residual for pyro at nmen is 0.00459123810360375 
+Calculating residuals for pyro at cper 
+Current Residual Value 0 
+distance->(aero)->(cper) = 0.96334 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 6.28234292331063e-06 
+Current Residual Value 6.28234292331063e-06 
+distance->(stok)->(cper) = 0.97209 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00142012163525504 
+Residual for pyro at cper is 0.00142012163525504 
+Calculating residuals for pyro at tmar 
+Current Residual Value 0 
+distance->(aero)->(tmar) = 0.99903 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00145896957469232 
+Current Residual Value 0.00145896957469232 
+distance->(stok)->(tmar) = 1.00778 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00683054823041873 
+Residual for pyro at tmar is 0.00683054823041873 
+Calculating residuals for pyro at nost 
+Current Residual Value 0 
+distance->(aero)->(nost) = 1.00394 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00185816691422682 
+Current Residual Value 0.00185816691422682 
+distance->(stok)->(nost) = 1.01269 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00797357182420565 
+Residual for pyro at nost is 0.00797357182420565 
+Calculating residuals for pyro at llact 
+Current Residual Value 0 
+distance->(aero)->(llact) = 0.97538 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.000211599505447798 
+Current Residual Value 0.000211599505447798 
+distance->(stok)->(llact) = 0.98413 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00267583378784038 
+Residual for pyro at llact is 0.00267583378784038 
+Calculating residuals for pyro at lmon 
+Current Residual Value 0 
+distance->(aero)->(lmon) = 0.95416 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 4.45361329586273e-05 
+Current Residual Value 4.45361329586273e-05 
+distance->(stok)->(lmon) = 0.96291 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.000852292466423359 
+Residual for pyro at lmon is 0.000852292466423359 
+Calculating residuals for pyro at rcon 
+Current Residual Value 0 
+distance->(aero)->(rcon) = 1.01185 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00260267921518766 
+Current Residual Value 0.00260267921518766 
+distance->(stok)->(rcon) = 1.0206 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.010017792905846 
+Residual for pyro at rcon is 0.010017792905846 
+Calculating residuals for pyro at xfas 
+Current Residual Value 0 
+distance->(aero)->(xfas) = 1.00203 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00169714833611869 
+Current Residual Value 0.00169714833611869 
+distance->(stok)->(xfas) = 1.01078 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00751747331827224 
+Residual for pyro at xfas is 0.00751747331827224 
+Calculating residuals for pyro at ecoliO157 
+Current Residual Value 0 
+distance->(aero)->(ecoliO157) = 0.96061 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 4.99700253167048e-08 
+Current Residual Value 4.99700253167048e-08 
+distance->(stok)->(ecoliO157) = 0.96936 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00121604040530836 
+Residual for pyro at ecoliO157 is 0.00121604040530836 
+Calculating residuals for pyro at tpal 
+Current Residual Value 0 
+distance->(aero)->(tpal) = 1.03158 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.0050050616361684 
+Current Residual Value 0.0050050616361684 
+distance->(stok)->(tpal) = 1.04033 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.0162073904336291 
+Residual for pyro at tpal is 0.0162073904336291 
+Calculating residuals for pyro at bsub 
+Current Residual Value 0 
+distance->(aero)->(bsub) = 0.94913 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.000136972842967085 
+Current Residual Value 0.000136972842967085 
+distance->(stok)->(bsub) = 0.95788 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.000684114269122333 
+Residual for pyro at bsub is 0.000684114269122333 
+Calculating residuals for pyro at cjej 
+Current Residual Value 0 
+distance->(aero)->(cjej) = 0.94366 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.000294930467966341 
+Current Residual Value 0.000294930467966341 
+distance->(stok)->(cjej) = 0.95241 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.000616094658936133 
+Residual for pyro at cjej is 0.000616094658936133 
+Calculating residuals for pyro at pyro 
+Current Residual Value 0 
+distance->(aero)->(pyro) = 0.61848 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.117205946187758 
+Current Residual Value 0.117205946187758 
+distance->(stok)->(pyro) = 0.62723 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.211614005836203 
+Residual for pyro at pyro is 0.211614005836203 
+Calculating residuals for pyro at mpul 
+Current Residual Value 0 
+distance->(aero)->(mpul) = 1.14794 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.0350088274626924 
+Current Residual Value 0.0350088274626924 
+distance->(stok)->(mpul) = 1.15669 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.0843821360411732 
+Residual for pyro at mpul is 0.0843821360411732 
+Calculating residuals for pyro at saur_mu50 
+Current Residual Value 0 
+distance->(aero)->(saur_mu50) = 0.9552 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 3.17367702531008e-05 
+Current Residual Value 3.17367702531008e-05 
+distance->(stok)->(saur_mu50) = 0.96395 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.000899690496879231 
+Residual for pyro at saur_mu50 is 0.000899690496879231 
+Calculating residuals for pyro at dra 
+Current Residual Value 0 
+distance->(aero)->(dra) = 1.03579 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00561847093137007 
+Current Residual Value 0.00561847093137007 
+distance->(stok)->(dra) = 1.04454 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.0177297055069169 
+Residual for pyro at dra is 0.0177297055069169 
+Calculating residuals for pyro at paero 
+Current Residual Value 0 
+distance->(aero)->(paero) = 0.53806 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.178737465923122 
+Current Residual Value 0.178737465923122 
+distance->(stok)->(paero) = 0.54681 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.329032430781144 
+Residual for pyro at paero is 0.329032430781144 
+Calculating residuals for pyro at hpyl99 
+Current Residual Value 0 
+distance->(aero)->(hpyl99) = 0.96322 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 5.69519246625591e-06 
+Current Residual Value 5.69519246625591e-06 
+distance->(stok)->(hpyl99) = 0.97197 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.0014105246317409 
+Residual for pyro at hpyl99 is 0.0014105246317409 
+Calculating residuals for pyro at mjan 
+Current Residual Value 0 
+distance->(aero)->(mjan) = 0.58523 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.141078019081949 
+Current Residual Value 0.141078019081949 
+distance->(stok)->(mjan) = 0.59398 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.257024361112494 
+Residual for pyro at mjan is 0.257024361112494 
+Calculating residuals for pyro at cpneuJ 
+Current Residual Value 0 
+distance->(aero)->(cpneuJ) = 1.06453 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.0107529558658347 
+Current Residual Value 0.0107529558658347 
+distance->(stok)->(cpneuJ) = 1.07328 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.0300159126485533 
+Residual for pyro at cpneuJ is 0.0300159126485533 
+Calculating residuals for pyro at tacid 
+Current Residual Value 0 
+distance->(aero)->(tacid) = 0.64292 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.101069018764178 
+Current Residual Value 0.101069018764178 
+distance->(stok)->(tacid) = 0.65167 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.181055574751916 
+Residual for pyro at tacid is 0.181055574751916 
+Calculating residuals for pyro at hpyl 
+Current Residual Value 0 
+distance->(aero)->(hpyl) = 0.96129 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 2.08355948626546e-07 
+Current Residual Value 2.08355948626546e-07 
+distance->(stok)->(hpyl) = 0.97004 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00126408582522182 
+Residual for pyro at hpyl is 0.00126408582522182 
+Calculating residuals for pyro at pabyssi 
+Current Residual Value 0 
+distance->(aero)->(pabyssi) = 0.60347 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.127708699551421 
+Current Residual Value 0.127708699551421 
+distance->(stok)->(pabyssi) = 0.61222 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.231565972846643 
+Residual for pyro at pabyssi is 0.231565972846643 
+Calculating residuals for pyro at aquae 
+Current Residual Value 0 
+distance->(aero)->(aquae) = 1.03904 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.0061162504229153 
+Current Residual Value 0.0061162504229153 
+distance->(stok)->(aquae) = 1.04779 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.0189533793520915 
+Residual for pyro at aquae is 0.0189533793520915 
+Calculating residuals for pyro at tvol 
+Current Residual Value 0 
+distance->(aero)->(tvol) = 0.65811 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.0916415415262 
+Current Residual Value 0.0916415415262 
+distance->(stok)->(tvol) = 0.66686 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.163266794046748 
+Residual for pyro at tvol is 0.163266794046748 
+Calculating residuals for pyro at smel 
+Current Residual Value 0 
+distance->(aero)->(smel) = 0.97539 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.000211890534652551 
+Current Residual Value 0.000211890534652551 
+distance->(stok)->(smel) = 0.98414 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00267711773813323 
+Residual for pyro at smel is 0.00267711773813323 
+Calculating residuals for pyro at cpneuA 
+Current Residual Value 0 
+distance->(aero)->(cpneuA) = 1.06909 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.0117194611832028 
+Current Residual Value 0.0117194611832028 
+distance->(stok)->(cpneuA) = 1.07784 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.0322689859820906 
+Residual for pyro at cpneuA is 0.0322689859820906 
+Calculating residuals for pyro at mpneu 
+Current Residual Value 0 
+distance->(aero)->(mpneu) = 1.12144 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.0257944350700929 
+Current Residual Value 0.0257944350700929 
+distance->(stok)->(mpneu) = 1.13019 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.0640933377651341 
+Residual for pyro at mpneu is 0.0640933377651341 
+Calculating residuals for pyro at atum_D 
+Current Residual Value 0 
+distance->(aero)->(atum_D) = 0.97991 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00036391133520161 
+Current Residual Value 0.00036391133520161 
+distance->(stok)->(atum_D) = 0.98866 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00329841447049916 
+Residual for pyro at atum_D is 0.00329841447049916 
+Calculating residuals for pyro at cglu 
+Current Residual Value 0 
+distance->(aero)->(cglu) = 1.01602 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00304554539357031 
+Current Residual Value 0.00304554539357031 
+distance->(stok)->(cglu) = 1.02477 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.0111962141779623 
+Residual for pyro at cglu is 0.0111962141779623 
+Calculating residuals for pyro at ecoli 
+Current Residual Value 0 
+distance->(aero)->(ecoli) = 0.96075 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 6.97889188048828e-09 
+Current Residual Value 6.97889188048828e-09 
+distance->(stok)->(ecoli) = 0.9695 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.0012257809094082 
+Residual for pyro at ecoli is 0.0012257809094082 
+Calculating residuals for pyro at cace 
+Current Residual Value 0 
+distance->(aero)->(cace) = 0.9631 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 5.13684200920119e-06 
+Current Residual Value 5.13684200920119e-06 
+distance->(stok)->(cace) = 0.97185 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00140098522822676 
+Residual for pyro at cace is 0.00140098522822676 
+Calculating residuals for pyro at linn 
+Current Residual Value 0 
+distance->(aero)->(linn) = 0.95428 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 4.29488834156819e-05 
+Current Residual Value 4.29488834156819e-05 
+distance->(stok)->(linn) = 0.96303 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.000857540669937499 
+Residual for pyro at linn is 0.000857540669937499 
+Calculating residuals for pyro at mthe 
+Current Residual Value 0 
+distance->(aero)->(mthe) = 0.64835 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.0976459626223595 
+Current Residual Value 0.0976459626223595 
+distance->(stok)->(mthe) = 0.6571 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.174590589760931 
+Residual for pyro at mthe is 0.174590589760931 
+Calculating residuals for pyro at ccre 
+Current Residual Value 0 
+distance->(aero)->(ccre) = 0.99722 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00132397448863175 
+Current Residual Value 0.00132397448863175 
+distance->(stok)->(ccre) = 1.00597 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00643351562741381 
+Residual for pyro at ccre is 0.00643351562741381 
+Calculating residuals for pyro at buch 
+Current Residual Value 0 
+distance->(aero)->(buch) = 0.99055 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.000883068009060463 
+Current Residual Value 0.000883068009060463 
+distance->(stok)->(buch) = 0.9993 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00508354078208621 
+Residual for pyro at buch is 0.00508354078208621 
+Calculating residuals for pyro at synecho 
+Current Residual Value 0 
+distance->(aero)->(synecho) = 1.00643 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00207903718621069 
+Current Residual Value 0.00207903718621069 
+distance->(stok)->(synecho) = 1.01518 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00859008344712402 
+Residual for pyro at synecho is 0.00859008344712402 
+Calculating residuals for pyro at mtub 
+Current Residual Value 0 
+distance->(aero)->(mtub) = 1.04275 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00671030645787926 
+Current Residual Value 0.00671030645787926 
+distance->(stok)->(mtub) = 1.0515 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.020401893310737 
+Residual for pyro at mtub is 0.020401893310737 
+Calculating residuals for pyro at saur_n315 
+Current Residual Value 0 
+distance->(aero)->(saur_n315) = 0.9552 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 3.17367702531008e-05 
+Current Residual Value 3.17367702531008e-05 
+distance->(stok)->(saur_n315) = 0.96395 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.000899690496879231 
+Residual for pyro at saur_n315 is 0.000899690496879231 
+Calculating residuals for pyro at mgen 
+Current Residual Value 0 
+distance->(aero)->(mgen) = 1.12997 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.0286071421817485 
+Current Residual Value 0.0286071421817485 
+distance->(stok)->(mgen) = 1.13872 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.0703174657649308 
+Residual for pyro at mgen is 0.0703174657649308 
+Calculating residuals for pyro at mlot 
+Current Residual Value 0 
+distance->(aero)->(mlot) = 0.98247 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.000468136411618776 
+Current Residual Value 0.000468136411618776 
+distance->(stok)->(mlot) = 0.99122 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00368654894546747 
+Residual for pyro at mlot is 0.00368654894546747 
+Calculating residuals for pyro at bmel 
+Current Residual Value 0 
+distance->(aero)->(bmel) = 0.98477 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.000572954128712328 
+Current Residual Value 0.000572954128712328 
+distance->(stok)->(bmel) = 0.99352 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00405761951282181 
+Residual for pyro at bmel is 0.00405761951282181 
+Calculating residuals for pyro at ssol 
+Current Residual Value 0 
+distance->(aero)->(ssol) = 0.46703 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.24384193588175 
+Current Residual Value 0.24384193588175 
+distance->(stok)->(ssol) = 0.19344 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.792995475649921 
+Residual for pyro at ssol is 0.792995475649921 
+Calculating residuals for pyro at rpxx 
+Current Residual Value 0 
+distance->(aero)->(rpxx) = 1.01374 
+sspersite->(pyro)->(aero) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00279909353488629 
+Current Residual Value 0.00279909353488629 
+distance->(stok)->(rpxx) = 1.02249 
+sspersite->(pyro)->(stok) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.0105432791111937 
+Residual for pyro at rpxx is 0.0105432791111937 
+**************************************************
+Calculating residuals for aero 
+Calculating residuals for aero at spyo 
+Current Residual Value 0 
+distance->(pyro)->(spyo) = 0.94303 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.000316966028066804 
+Current Residual Value 0.000316966028066804 
+distance->(stok)->(spyo) = 0.97046 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.324882714381936 
+Residual for aero at spyo is 0.324882714381936 
+Calculating residuals for aero at bhal 
+Current Residual Value 0 
+distance->(pyro)->(bhal) = 0.92438 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00132886056119956 
+Current Residual Value 0.00132886056119956 
+distance->(stok)->(bhal) = 0.95181 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.304992370708632 
+Residual for aero at bhal is 0.304992370708632 
+Calculating residuals for aero at spneu 
+Current Residual Value 0 
+distance->(pyro)->(spneu) = 0.94488 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.000254515430946397 
+Current Residual Value 0.000254515430946397 
+distance->(stok)->(spneu) = 0.97231 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.326931601153818 
+Residual for aero at spneu is 0.326931601153818 
+Calculating residuals for aero at mtub_cdc 
+Current Residual Value 0 
+distance->(pyro)->(mtub_cdc) = 1.02407 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00399884990339774 
+Current Residual Value 0.00399884990339774 
+distance->(stok)->(mtub_cdc) = 1.0515 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.427470145254031 
+Residual for aero at mtub_cdc is 0.427470145254031 
+Calculating residuals for aero at sent 
+Current Residual Value 0 
+distance->(pyro)->(sent) = 0.94305 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.000316254286476313 
+Current Residual Value 0.000316254286476313 
+distance->(stok)->(sent) = 0.97048 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.324904791309199 
+Residual for aero at sent is 0.324904791309199 
+Calculating residuals for aero at styp 
+Current Residual Value 0 
+distance->(pyro)->(styp) = 0.94199 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.000355078990772332 
+Current Residual Value 0.000355078990772332 
+distance->(stok)->(styp) = 0.96942 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.323736918964229 
+Residual for aero at styp is 0.323736918964229 
+Calculating residuals for aero at paer 
+Current Residual Value 0 
+distance->(pyro)->(paer) = 0.9477 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.000172489866687184 
+Current Residual Value 0.000172489866687184 
+distance->(stok)->(paer) = 0.97513 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.330081107897986 
+Residual for aero at paer is 0.330081107897986 
+Calculating residuals for aero at nmenA 
+Current Residual Value 0 
+distance->(pyro)->(nmenA) = 0.96936 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 7.27005241855541e-05 
+Current Residual Value 7.27005241855541e-05 
+distance->(stok)->(nmenA) = 0.99679 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.355332473724461 
+Residual for aero at nmenA is 0.355332473724461 
+Calculating residuals for aero at uure 
+Current Residual Value 0 
+distance->(pyro)->(uure) = 1.09367 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.0176455251684894 
+Current Residual Value 0.0176455251684894 
+distance->(stok)->(uure) = 1.1211 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.536544924131348 
+Residual for aero at uure is 0.536544924131348 
+Calculating residuals for aero at hinf 
+Current Residual Value 0 
+distance->(pyro)->(hinf) = 0.94615 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.000215606339950226 
+Current Residual Value 0.000215606339950226 
+distance->(stok)->(hinf) = 0.97358 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.328346059035057 
+Residual for aero at hinf is 0.328346059035057 
+Calculating residuals for aero at vcho 
+Current Residual Value 0 
+distance->(pyro)->(vcho) = 0.94405 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.000281687206951772 
+Current Residual Value 0.000281687206951772 
+distance->(stok)->(vcho) = 0.97148 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.326010677672379 
+Residual for aero at vcho is 0.326010677672379 
+Calculating residuals for aero at pmul 
+Current Residual Value 0 
+distance->(pyro)->(pmul) = 0.94289 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.000321970619200241 
+Current Residual Value 0.000321970619200241 
+distance->(stok)->(pmul) = 0.97032 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.32472822069109 
+Residual for aero at pmul is 0.32472822069109 
+Calculating residuals for aero at rsol 
+Current Residual Value 0 
+distance->(pyro)->(rsol) = 0.96717 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 4.01507283443058e-05 
+Current Residual Value 4.01507283443058e-05 
+distance->(stok)->(rsol) = 0.9946 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.352694079189097 
+Residual for aero at rsol is 0.352694079189097 
+Calculating residuals for aero at aero 
+Current Residual Value 0 
+distance->(pyro)->(aero) = 0.61848 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.117205946187758 
+Current Residual Value 0.117205946187758 
+distance->(stok)->(aero) = 0.46887 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.12184583391553 
+Residual for aero at aero is 0.12184583391553 
+Calculating residuals for aero at bbur 
+Current Residual Value 0 
+distance->(pyro)->(bbur) = 1.02728 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00441513207812394 
+Current Residual Value 0.00441513207812394 
+distance->(stok)->(bbur) = 1.05471 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.432074525479838 
+Residual for aero at bbur is 0.432074525479838 
+Calculating residuals for aero at hbsp 
+Current Residual Value 0 
+distance->(pyro)->(hbsp) = 0.58194 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.143560314473584 
+Current Residual Value 0.143560314473584 
+distance->(stok)->(hbsp) = 0.68041 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.221768196271044 
+Residual for aero at hbsp is 0.221768196271044 
+Calculating residuals for aero at mlep 
+Current Residual Value 0 
+distance->(pyro)->(mlep) = 1.0383 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00600105246176347 
+Current Residual Value 0.00600105246176347 
+distance->(stok)->(mlep) = 1.06573 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.44819509240208 
+Residual for aero at mlep is 0.44819509240208 
+Calculating residuals for aero at cpneuC 
+Current Residual Value 0 
+distance->(pyro)->(cpneuC) = 1.04506 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00709409660417757 
+Current Residual Value 0.00709409660417757 
+distance->(stok)->(cpneuC) = 1.07249 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.458324319417175 
+Residual for aero at cpneuC is 0.458324319417175 
+Calculating residuals for aero at ctraM 
+Current Residual Value 0 
+distance->(pyro)->(ctraM) = 1.04784 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00757012412309934 
+Current Residual Value 0.00757012412309934 
+distance->(stok)->(ctraM) = 1.07527 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.462542931506815 
+Residual for aero at ctraM is 0.462542931506815 
+Calculating residuals for aero at aful 
+Current Residual Value 0 
+distance->(pyro)->(aful) = 0.48213 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.229157078980929 
+Current Residual Value 0.229157078980929 
+distance->(stok)->(aful) = 0.5806 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.261501922162064 
+Residual for aero at aful is 0.261501922162064 
+Calculating residuals for aero at ypes 
+Current Residual Value 0 
+distance->(pyro)->(ypes) = 0.94162 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.000369160110196412 
+Current Residual Value 0.000369160110196412 
+distance->(stok)->(ypes) = 0.96905 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.323330323609852 
+Residual for aero at ypes is 0.323330323609852 
+Calculating residuals for aero at stok 
+Current Residual Value 0 
+distance->(pyro)->(stok) = 0.62723 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.111291321741918 
+Current Residual Value 0.111291321741918 
+distance->(stok)->(stok) = 0 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.271894512088882 
+Residual for aero at stok is 0.271894512088882 
+Calculating residuals for aero at nmen 
+Current Residual Value 0 
+distance->(pyro)->(nmen) = 0.96919 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 6.98304277047265e-05 
+Current Residual Value 6.98304277047265e-05 
+distance->(stok)->(nmen) = 0.99662 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.35512698004272 
+Residual for aero at nmen is 0.35512698004272 
+Calculating residuals for aero at cper 
+Current Residual Value 0 
+distance->(pyro)->(cper) = 0.94466 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.000261583388441796 
+Current Residual Value 0.000261583388441796 
+distance->(stok)->(cper) = 0.97209 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.326687232553919 
+Residual for aero at cper is 0.326687232553919 
+Calculating residuals for aero at tmar 
+Current Residual Value 0 
+distance->(pyro)->(tmar) = 0.98035 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.000380892220210814 
+Current Residual Value 0.000380892220210814 
+distance->(stok)->(tmar) = 1.00778 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.368862332655807 
+Residual for aero at tmar is 0.368862332655807 
+Calculating residuals for aero at nost 
+Current Residual Value 0 
+distance->(pyro)->(nost) = 0.98526 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.000596651959745301 
+Current Residual Value 0.000596651959745301 
+distance->(stok)->(nost) = 1.01269 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.375063202899021 
+Residual for aero at nost is 0.375063202899021 
+Calculating residuals for aero at llact 
+Current Residual Value 0 
+distance->(pyro)->(llact) = 0.9567 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 1.70861509662849e-05 
+Current Residual Value 1.70861509662849e-05 
+distance->(stok)->(llact) = 0.98413 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.340345485166604 
+Residual for aero at llact is 0.340345485166604 
+Calculating residuals for aero at lmon 
+Current Residual Value 0 
+distance->(pyro)->(lmon) = 0.93548 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.000642801978477116 
+Current Residual Value 0.000642801978477116 
+distance->(stok)->(lmon) = 0.96291 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.316662981339928 
+Residual for aero at lmon is 0.316662981339928 
+Calculating residuals for aero at rcon 
+Current Residual Value 0 
+distance->(pyro)->(rcon) = 0.99317 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00104564666070615 
+Current Residual Value 0.00104564666070615 
+distance->(stok)->(rcon) = 1.0206 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.385255604631773 
+Residual for aero at rcon is 0.385255604631773 
+Calculating residuals for aero at xfas 
+Current Residual Value 0 
+distance->(pyro)->(xfas) = 0.98335 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.000506990981637177 
+Current Residual Value 0.000506990981637177 
+distance->(stok)->(xfas) = 1.01078 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.372639591745347 
+Residual for aero at xfas is 0.372639591745347 
+Calculating residuals for aero at ecoliO157 
+Current Residual Value 0 
+distance->(pyro)->(ecoliO157) = 0.94193 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.000357343815543802 
+Current Residual Value 0.000357343815543802 
+distance->(stok)->(ecoliO157) = 0.96936 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.323670947382438 
+Residual for aero at ecoliO157 is 0.323670947382438 
+Calculating residuals for aero at tpal 
+Current Residual Value 0 
+distance->(pyro)->(tpal) = 1.0129 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00271091628168689 
+Current Residual Value 0.00271091628168689 
+distance->(stok)->(tpal) = 1.04033 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.411769298777312 
+Residual for aero at tpal is 0.411769298777312 
+Calculating residuals for aero at bsub 
+Current Residual Value 0 
+distance->(pyro)->(bsub) = 0.93045 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.000923159488485573 
+Current Residual Value 0.000923159488485573 
+distance->(stok)->(bsub) = 0.95788 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.311313343133133 
+Residual for aero at bsub is 0.311313343133133 
+Calculating residuals for aero at cjej 
+Current Residual Value 0 
+distance->(pyro)->(cjej) = 0.92498 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00128547631348483 
+Current Residual Value 0.00128547631348483 
+distance->(stok)->(cjej) = 0.95241 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.305610614526539 
+Residual for aero at cjej is 0.305610614526539 
+Calculating residuals for aero at pyro 
+Current Residual Value 0 
+distance->(pyro)->(pyro) = 0 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.923201091132098 
+Current Residual Value 0.923201091132098 
+distance->(stok)->(pyro) = 0.62723 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.974492796446538 
+Residual for aero at pyro is 0.974492796446538 
+Calculating residuals for aero at mpul 
+Current Residual Value 0 
+distance->(pyro)->(mpul) = 1.12926 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.0283674725082109 
+Current Residual Value 0.0283674725082109 
+distance->(stok)->(mpul) = 1.15669 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.599807799196919 
+Residual for aero at mpul is 0.599807799196919 
+Calculating residuals for aero at saur_mu50 
+Current Residual Value 0 
+distance->(pyro)->(saur_mu50) = 0.93652 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.000591148215771588 
+Current Residual Value 0.000591148215771588 
+distance->(stok)->(saur_mu50) = 0.96395 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.317781695157635 
+Residual for aero at saur_mu50 is 0.317781695157635 
+Calculating residuals for aero at dra 
+Current Residual Value 0 
+distance->(pyro)->(dra) = 1.01711 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00316703997688856 
+Current Residual Value 0.00316703997688856 
+distance->(stok)->(dra) = 1.04454 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.417628382566299 
+Residual for aero at dra is 0.417628382566299 
+Calculating residuals for aero at paero 
+Current Residual Value 0 
+distance->(pyro)->(paero) = 0.6734 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.0826180397802697 
+Current Residual Value 0.0826180397802697 
+distance->(stok)->(paero) = 0.54681 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.103950605632423 
+Residual for aero at paero is 0.103950605632423 
+Calculating residuals for aero at hpyl99 
+Current Residual Value 0 
+distance->(pyro)->(hpyl99) = 0.94454 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.000265479437984742 
+Current Residual Value 0.000265479437984742 
+distance->(stok)->(hpyl99) = 0.97197 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.326554022190337 
+Residual for aero at hpyl99 is 0.326554022190337 
+Calculating residuals for aero at mjan 
+Current Residual Value 0 
+distance->(pyro)->(mjan) = 0.40503 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.308917574812272 
+Current Residual Value 0.308917574812272 
+distance->(stok)->(mjan) = 0.59398 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.346254140656791 
+Residual for aero at mjan is 0.346254140656791 
+Calculating residuals for aero at cpneuJ 
+Current Residual Value 0 
+distance->(pyro)->(cpneuJ) = 1.04585 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00722779851135315 
+Current Residual Value 0.00722779851135315 
+distance->(stok)->(cpneuJ) = 1.07328 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.459519989444088 
+Residual for aero at cpneuJ is 0.459519989444088 
+Calculating residuals for aero at tacid 
+Current Residual Value 0 
+distance->(pyro)->(tacid) = 0.56324 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.158080622860694 
+Current Residual Value 0.158080622860694 
+distance->(stok)->(tacid) = 0.65167 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.221039823914829 
+Residual for aero at tacid is 0.221039823914829 
+Calculating residuals for aero at hpyl 
+Current Residual Value 0 
+distance->(pyro)->(hpyl) = 0.94261 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.000332097401467116 
+Current Residual Value 0.000332097401467116 
+distance->(stok)->(hpyl) = 0.97004 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.3244194685094 
+Residual for aero at hpyl is 0.3244194685094 
+Calculating residuals for aero at pabyssi 
+Current Residual Value 0 
+distance->(pyro)->(pabyssi) = 0.02675 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.872512059254816 
+Current Residual Value 0.872512059254816 
+distance->(stok)->(pabyssi) = 0.61222 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.917230233494263 
+Residual for aero at pabyssi is 0.917230233494263 
+Calculating residuals for aero at aquae 
+Current Residual Value 0 
+distance->(pyro)->(aquae) = 1.02036 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00354339946843379 
+Current Residual Value 0.00354339946843379 
+distance->(stok)->(aquae) = 1.04779 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.422199918246633 
+Residual for aero at aquae is 0.422199918246633 
+Calculating residuals for aero at tvol 
+Current Residual Value 0 
+distance->(pyro)->(tvol) = 0.57843 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.146232467222716 
+Current Residual Value 0.146232467222716 
+distance->(stok)->(tvol) = 0.66686 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.217045254371531 
+Residual for aero at tvol is 0.217045254371531 
+Calculating residuals for aero at smel 
+Current Residual Value 0 
+distance->(pyro)->(smel) = 0.95671 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 1.70035801710399e-05 
+Current Residual Value 1.70035801710399e-05 
+distance->(stok)->(smel) = 0.98414 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.340357070230236 
+Residual for aero at smel is 0.340357070230236 
+Calculating residuals for aero at cpneuA 
+Current Residual Value 0 
+distance->(pyro)->(cpneuA) = 1.05041 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00802394222872125 
+Current Residual Value 0.00802394222872125 
+distance->(stok)->(cpneuA) = 1.07784 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.466470370460188 
+Residual for aero at cpneuA is 0.466470370460188 
+Calculating residuals for aero at mpneu 
+Current Residual Value 0 
+distance->(pyro)->(mpneu) = 1.10276 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.0201431201156113 
+Current Residual Value 0.0201431201156113 
+distance->(stok)->(mpneu) = 1.13019 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.552221050572653 
+Residual for aero at mpneu is 0.552221050572653 
+Calculating residuals for aero at atum_D 
+Current Residual Value 0 
+distance->(pyro)->(atum_D) = 0.96123 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 1.57180720099247e-07 
+Current Residual Value 1.57180720099247e-07 
+distance->(stok)->(atum_D) = 0.98866 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.345634470191809 
+Residual for aero at atum_D is 0.345634470191809 
+Calculating residuals for aero at cglu 
+Current Residual Value 0 
+distance->(pyro)->(cglu) = 0.99734 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.0013327216390888 
+Current Residual Value 0.0013327216390888 
+distance->(stok)->(cglu) = 1.02477 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.390729590166233 
+Residual for aero at cglu is 0.390729590166233 
+Calculating residuals for aero at ecoli 
+Current Residual Value 0 
+distance->(pyro)->(ecoli) = 0.94207 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.000352070424410369 
+Current Residual Value 0.000352070424410369 
+distance->(stok)->(ecoli) = 0.9695 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.323824903473283 
+Residual for aero at ecoli is 0.323824903473283 
+Calculating residuals for aero at cace 
+Current Residual Value 0 
+distance->(pyro)->(cace) = 0.94442 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.000269404287527688 
+Current Residual Value 0.000269404287527688 
+distance->(stok)->(cace) = 0.97185 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.326420869426756 
+Residual for aero at cace is 0.326420869426756 
+Calculating residuals for aero at linn 
+Current Residual Value 0 
+distance->(pyro)->(linn) = 0.9356 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00063673152893417 
+Current Residual Value 0.00063673152893417 
+distance->(stok)->(linn) = 0.96303 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.316791842903509 
+Residual for aero at linn is 0.316791842903509 
+Calculating residuals for aero at mthe 
+Current Residual Value 0 
+distance->(pyro)->(mthe) = 0.45643 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.25442293092471 
+Current Residual Value 0.25442293092471 
+distance->(stok)->(mthe) = 0.6571 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.320136572472731 
+Residual for aero at mthe is 0.320136572472731 
+Calculating residuals for aero at ccre 
+Current Residual Value 0 
+distance->(pyro)->(ccre) = 0.97854 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.000313518734150236 
+Current Residual Value 0.000313518734150236 
+distance->(stok)->(ccre) = 1.00597 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.366600798538452 
+Residual for aero at ccre is 0.366600798538452 
+Calculating residuals for aero at buch 
+Current Residual Value 0 
+distance->(pyro)->(buch) = 0.97187 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.000121803454578948 
+Current Residual Value 0.000121803454578948 
+distance->(stok)->(buch) = 0.9993 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.358379981096042 
+Residual for aero at buch is 0.358379981096042 
+Calculating residuals for aero at synecho 
+Current Residual Value 0 
+distance->(pyro)->(synecho) = 0.98775 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.000724495831729185 
+Current Residual Value 0.000724495831729185 
+distance->(stok)->(synecho) = 1.01518 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.378244691743338 
+Residual for aero at synecho is 0.378244691743338 
+Calculating residuals for aero at mtub 
+Current Residual Value 0 
+distance->(pyro)->(mtub) = 1.02407 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00399884990339774 
+Current Residual Value 0.00399884990339774 
+distance->(stok)->(mtub) = 1.0515 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.427470145254031 
+Residual for aero at mtub is 0.427470145254031 
+Calculating residuals for aero at saur_n315 
+Current Residual Value 0 
+distance->(pyro)->(saur_n315) = 0.93652 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.000591148215771588 
+Current Residual Value 0.000591148215771588 
+distance->(stok)->(saur_n315) = 0.96395 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.317781695157635 
+Residual for aero at saur_n315 is 0.317781695157635 
+Calculating residuals for aero at mgen 
+Current Residual Value 0 
+distance->(pyro)->(mgen) = 1.11129 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.0226371464272669 
+Current Residual Value 0.0226371464272669 
+distance->(stok)->(mgen) = 1.13872 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.567232028250577 
+Residual for aero at mgen is 0.567232028250577 
+Calculating residuals for aero at mlot 
+Current Residual Value 0 
+distance->(pyro)->(mlot) = 0.96379 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 8.74065713726603e-06 
+Current Residual Value 8.74065713726603e-06 
+distance->(stok)->(mlot) = 0.99122 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.348659689681549 
+Residual for aero at mlot is 0.348659689681549 
+Calculating residuals for aero at bmel 
+Current Residual Value 0 
+distance->(pyro)->(bmel) = 0.96609 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 2.7630374230814e-05 
+Current Residual Value 2.7630374230814e-05 
+distance->(stok)->(bmel) = 0.99352 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.351400016316863 
+Residual for aero at bmel is 0.351400016316863 
+Calculating residuals for aero at ssol 
+Current Residual Value 0 
+distance->(pyro)->(ssol) = 0.62539 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.112522368368243 
+Current Residual Value 0.112522368368243 
+distance->(stok)->(ssol) = 0.19344 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.155501163871945 
+Residual for aero at ssol is 0.155501163871945 
+Calculating residuals for aero at rpxx 
+Current Residual Value 0 
+distance->(pyro)->(rpxx) = 0.99506 
+sspersite->(aero)->(pyro) = 0.810220 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00117145058040476 
+Current Residual Value 0.00117145058040476 
+distance->(stok)->(rpxx) = 1.02249 
+sspersite->(aero)->(stok) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.387728001258183 
+Residual for aero at rpxx is 0.387728001258183 
+**************************************************
+Calculating residuals for stok 
+Calculating residuals for stok at spyo 
+Current Residual Value 0 
+distance->(pyro)->(spyo) = 0.94303 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 7.29496103409841e-05 
+Current Residual Value 7.29496103409841e-05 
+distance->(aero)->(spyo) = 0.96171 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.314745392840546 
+Residual for stok at spyo is 0.314745392840546 
+Calculating residuals for stok at bhal 
+Current Residual Value 0 
+distance->(pyro)->(bhal) = 0.92438 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.000102190781052359 
+Current Residual Value 0.000102190781052359 
+distance->(aero)->(bhal) = 0.94306 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.294198770804821 
+Residual for stok at bhal is 0.294198770804821 
+Calculating residuals for stok at spneu 
+Current Residual Value 0 
+distance->(pyro)->(spneu) = 0.94488 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.000107974011637711 
+Current Residual Value 0.000107974011637711 
+distance->(aero)->(spneu) = 0.96356 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.316859379610846 
+Residual for stok at spneu is 0.316859379610846 
+Calculating residuals for stok at mtub_cdc 
+Current Residual Value 0 
+distance->(pyro)->(mtub_cdc) = 1.02407 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00802476530822572 
+Current Residual Value 0.00802476530822572 
+distance->(aero)->(mtub_cdc) = 1.04275 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.420184555535195 
+Residual for stok at mtub_cdc is 0.420184555535195 
+Calculating residuals for stok at sent 
+Current Residual Value 0 
+distance->(pyro)->(sent) = 0.94305 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 7.32916525171653e-05 
+Current Residual Value 7.32916525171653e-05 
+distance->(aero)->(sent) = 0.96173 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.314768173551577 
+Residual for stok at sent is 0.314768173551577 
+Calculating residuals for stok at styp 
+Current Residual Value 0 
+distance->(pyro)->(styp) = 0.94199 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 5.62658171795803e-05 
+Current Residual Value 5.62658171795803e-05 
+distance->(aero)->(styp) = 0.96067 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.313563000666972 
+Residual for stok at styp is 0.313563000666972 
+Calculating residuals for stok at paer 
+Current Residual Value 0 
+distance->(pyro)->(paer) = 0.9477 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.000174531958479207 
+Current Residual Value 0.000174531958479207 
+distance->(aero)->(paer) = 0.96638 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.320108119866114 
+Residual for stok at paer is 0.320108119866114 
+Calculating residuals for stok at nmenA 
+Current Residual Value 0 
+distance->(pyro)->(nmenA) = 0.96936 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00121599043528305 
+Current Residual Value 0.00121599043528305 
+distance->(aero)->(nmenA) = 0.98804 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.346121683511895 
+Residual for stok at nmenA is 0.346121683511895 
+Calculating residuals for stok at uure 
+Current Residual Value 0 
+distance->(pyro)->(uure) = 1.09367 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.025338608081335 
+Current Residual Value 0.025338608081335 
+distance->(aero)->(uure) = 1.11235 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.53170850192053 
+Residual for stok at uure is 0.53170850192053 
+Calculating residuals for stok at hinf 
+Current Residual Value 0 
+distance->(pyro)->(hinf) = 0.94615 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.000135980189825194 
+Current Residual Value 0.000135980189825194 
+distance->(aero)->(hinf) = 0.96483 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.318318527761268 
+Residual for stok at hinf is 0.318318527761268 
+Calculating residuals for stok at vcho 
+Current Residual Value 0 
+distance->(pyro)->(vcho) = 0.94405 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 9.14137613262048e-05 
+Current Residual Value 9.14137613262048e-05 
+distance->(aero)->(vcho) = 0.96273 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.31590924910309 
+Residual for stok at vcho is 0.31590924910309 
+Calculating residuals for stok at pmul 
+Current Residual Value 0 
+distance->(pyro)->(pmul) = 0.94289 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 7.05777151077178e-05 
+Current Residual Value 7.05777151077178e-05 
+distance->(aero)->(pmul) = 0.96157 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.314585972663335 
+Residual for stok at pmul is 0.314585972663335 
+Calculating residuals for stok at rsol 
+Current Residual Value 0 
+distance->(pyro)->(rsol) = 0.96717 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00106805131699124 
+Current Residual Value 0.00106805131699124 
+distance->(aero)->(rsol) = 0.98585 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.343406224654081 
+Residual for stok at rsol is 0.343406224654081 
+Calculating residuals for stok at aero 
+Current Residual Value 0 
+distance->(pyro)->(aero) = 0.61848 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.0998616536963665 
+Current Residual Value 0.0998616536963665 
+distance->(aero)->(aero) = 0 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.260464844043331 
+Residual for stok at aero is 0.260464844043331 
+Calculating residuals for stok at bbur 
+Current Residual Value 0 
+distance->(pyro)->(bbur) = 1.02728 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00861017977750273 
+Current Residual Value 0.00861017977750273 
+distance->(aero)->(bbur) = 1.04596 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.424901893055553 
+Residual for stok at bbur is 0.424901893055553 
+Calculating residuals for stok at hbsp 
+Current Residual Value 0 
+distance->(pyro)->(hbsp) = 0.58194 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.124290759040484 
+Current Residual Value 0.124290759040484 
+distance->(aero)->(hbsp) = 0.67166 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.197681210714281 
+Residual for stok at hbsp is 0.197681210714281 
+Calculating residuals for stok at mlep 
+Current Residual Value 0 
+distance->(pyro)->(mlep) = 1.0383 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.0107767350165784 
+Current Residual Value 0.0107767350165784 
+distance->(aero)->(mlep) = 1.05698 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.441410244833231 
+Residual for stok at mlep is 0.441410244833231 
+Calculating residuals for stok at cpneuC 
+Current Residual Value 0 
+distance->(pyro)->(cpneuC) = 1.04506 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.0122259580721275 
+Current Residual Value 0.0122259580721275 
+distance->(aero)->(cpneuC) = 1.06374 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.451777350761462 
+Residual for stok at cpneuC is 0.451777350761462 
+Calculating residuals for stok at ctraM 
+Current Residual Value 0 
+distance->(pyro)->(ctraM) = 1.04784 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.0128484615346166 
+Current Residual Value 0.0128484615346166 
+distance->(aero)->(ctraM) = 1.06652 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.456093788794669 
+Residual for stok at ctraM is 0.456093788794669 
+Calculating residuals for stok at aful 
+Current Residual Value 0 
+distance->(pyro)->(aful) = 0.48213 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.204628615660254 
+Current Residual Value 0.204628615660254 
+distance->(aero)->(aful) = 0.57185 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.233902703717725 
+Residual for stok at aful is 0.233902703717725 
+Calculating residuals for stok at ypes 
+Current Residual Value 0 
+distance->(pyro)->(ypes) = 0.94162 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 5.08519369202352e-05 
+Current Residual Value 5.08519369202352e-05 
+distance->(aero)->(ypes) = 0.9603 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.313143385312912 
+Residual for stok at ypes is 0.313143385312912 
+Calculating residuals for stok at stok 
+Current Residual Value 0 
+distance->(pyro)->(stok) = 0.62723 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.0944080596484457 
+Current Residual Value 0.0944080596484457 
+distance->(aero)->(stok) = 0.46887 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.0990479473762184 
+Residual for stok at stok is 0.0990479473762184 
+Calculating residuals for stok at nmen 
+Current Residual Value 0 
+distance->(pyro)->(nmen) = 0.96919 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00120416317678551 
+Current Residual Value 0.00120416317678551 
+distance->(aero)->(nmen) = 0.98787 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.345910207668138 
+Residual for stok at nmen is 0.345910207668138 
+Calculating residuals for stok at cper 
+Current Residual Value 0 
+distance->(pyro)->(cper) = 0.94466 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.000103450347699722 
+Current Residual Value 0.000103450347699722 
+distance->(aero)->(cper) = 0.96334 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.316607269389513 
+Residual for stok at cper is 0.316607269389513 
+Calculating residuals for stok at tmar 
+Current Residual Value 0 
+distance->(pyro)->(tmar) = 0.98035 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00210323631109442 
+Current Residual Value 0.00210323631109442 
+distance->(aero)->(tmar) = 0.99903 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.360038271623028 
+Residual for stok at tmar is 0.360038271623028 
+Calculating residuals for stok at nost 
+Current Residual Value 0 
+distance->(pyro)->(nost) = 0.98526 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00257769996534681 
+Current Residual Value 0.00257769996534681 
+distance->(aero)->(nost) = 1.00394 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.366411920780959 
+Residual for stok at nost is 0.366411920780959 
+Calculating residuals for stok at llact 
+Current Residual Value 0 
+distance->(pyro)->(llact) = 0.9567 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.000493330937760581 
+Current Residual Value 0.000493330937760581 
+distance->(aero)->(llact) = 0.97538 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.330689199829735 
+Residual for stok at llact is 0.330689199829735 
+Calculating residuals for stok at lmon 
+Current Residual Value 0 
+distance->(pyro)->(lmon) = 0.93548 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 9.82188832719962e-07 
+Current Residual Value 9.82188832719962e-07 
+distance->(aero)->(lmon) = 0.95416 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.30625998142662 
+Residual for stok at lmon is 0.30625998142662 
+Calculating residuals for stok at rcon 
+Current Residual Value 0 
+distance->(pyro)->(rcon) = 0.99317 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00344346614602633 
+Current Residual Value 0.00344346614602633 
+distance->(aero)->(rcon) = 1.01185 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.37688266899343 
+Residual for stok at rcon is 0.37688266899343 
+Calculating residuals for stok at xfas 
+Current Residual Value 0 
+distance->(pyro)->(xfas) = 0.98335 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00238740263752153 
+Current Residual Value 0.00238740263752153 
+distance->(aero)->(xfas) = 1.00203 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.363921098277568 
+Residual for stok at xfas is 0.363921098277568 
+Calculating residuals for stok at ecoliO157 
+Current Residual Value 0 
+distance->(pyro)->(ecoliO157) = 0.94193 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 5.53692906510385e-05 
+Current Residual Value 5.53692906510385e-05 
+distance->(aero)->(ecoliO157) = 0.96061 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.313494917733882 
+Residual for stok at ecoliO157 is 0.313494917733882 
+Calculating residuals for stok at tpal 
+Current Residual Value 0 
+distance->(pyro)->(tpal) = 1.0129 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.0061482934528287 
+Current Residual Value 0.0061482934528287 
+distance->(aero)->(tpal) = 1.03158 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.40409064582479 
+Residual for stok at tpal is 0.40409064582479 
+Calculating residuals for stok at bsub 
+Current Residual Value 0 
+distance->(pyro)->(bsub) = 0.93045 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 1.63130815232411e-05 
+Current Residual Value 1.63130815232411e-05 
+distance->(aero)->(bsub) = 0.94913 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.300733341602507 
+Residual for stok at bsub is 0.300733341602507 
+Calculating residuals for stok at cjej 
+Current Residual Value 0 
+distance->(pyro)->(cjej) = 0.92498 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 9.04200463377835e-05 
+Current Residual Value 9.04200463377835e-05 
+distance->(aero)->(cjej) = 0.94366 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.294838128135729 
+Residual for stok at cjej is 0.294838128135729 
+Calculating residuals for stok at pyro 
+Current Residual Value 0 
+distance->(pyro)->(pyro) = 0 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.873269589440151 
+Current Residual Value 0.873269589440151 
+distance->(aero)->(pyro) = 0.61848 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.920674514630927 
+Residual for stok at pyro is 0.920674514630927 
+Calculating residuals for stok at mpul 
+Current Residual Value 0 
+distance->(pyro)->(mpul) = 1.12926 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.0379357636338488 
+Current Residual Value 0.0379357636338488 
+distance->(aero)->(mpul) = 1.14794 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.596223760198893 
+Residual for stok at mpul is 0.596223760198893 
+Calculating residuals for stok at saur_mu50 
+Current Residual Value 0 
+distance->(pyro)->(saur_mu50) = 0.93652 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 4.12518199412327e-06 
+Current Residual Value 4.12518199412327e-06 
+distance->(aero)->(saur_mu50) = 0.9552 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.307415292000194 
+Residual for stok at saur_mu50 is 0.307415292000194 
+Calculating residuals for stok at dra 
+Current Residual Value 0 
+distance->(pyro)->(dra) = 1.01711 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00682623863091477 
+Current Residual Value 0.00682623863091477 
+distance->(aero)->(dra) = 1.03579 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.410097876096662 
+Residual for stok at dra is 0.410097876096662 
+Calculating residuals for stok at paero 
+Current Residual Value 0 
+distance->(pyro)->(paero) = 0.6734 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.0681674375121591 
+Current Residual Value 0.0681674375121591 
+distance->(aero)->(paero) = 0.53806 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.0870205732406487 
+Residual for stok at paero is 0.0870205732406487 
+Calculating residuals for stok at hpyl99 
+Current Residual Value 0 
+distance->(pyro)->(hpyl99) = 0.94454 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.000101023694642637 
+Current Residual Value 0.000101023694642637 
+distance->(aero)->(hpyl99) = 0.96322 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.316469836323332 
+Residual for stok at hpyl99 is 0.316469836323332 
+Calculating residuals for stok at mjan 
+Current Residual Value 0 
+distance->(pyro)->(mjan) = 0.40503 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.280326775071077 
+Current Residual Value 0.280326775071077 
+distance->(aero)->(mjan) = 0.58523 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.314358435791932 
+Residual for stok at mjan is 0.314358435791932 
+Calculating residuals for stok at cpneuJ 
+Current Residual Value 0 
+distance->(pyro)->(cpneuJ) = 1.04585 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.0124012844380866 
+Current Residual Value 0.0124012844380866 
+distance->(aero)->(cpneuJ) = 1.06453 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.453000820247158 
+Residual for stok at cpneuJ is 0.453000820247158 
+Calculating residuals for stok at tacid 
+Current Residual Value 0 
+distance->(pyro)->(tacid) = 0.56324 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.137825779605755 
+Current Residual Value 0.137825779605755 
+distance->(aero)->(tacid) = 0.64292 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.196470500536227 
+Residual for stok at tacid is 0.196470500536227 
+Calculating residuals for stok at hpyl 
+Current Residual Value 0 
+distance->(pyro)->(hpyl) = 0.94261 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 6.59515246411852e-05 
+Current Residual Value 6.59515246411852e-05 
+distance->(aero)->(hpyl) = 0.96129 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.314267367508911 
+Residual for stok at hpyl is 0.314267367508911 
+Calculating residuals for stok at pabyssi 
+Current Residual Value 0 
+distance->(pyro)->(pabyssi) = 0.02675 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.823989993350792 
+Current Residual Value 0.823989993350792 
+distance->(aero)->(pabyssi) = 0.60347 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.865084062466576 
+Residual for stok at pabyssi is 0.865084062466576 
+Calculating residuals for stok at aquae 
+Current Residual Value 0 
+distance->(pyro)->(aquae) = 1.02036 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00737383798454415 
+Current Residual Value 0.00737383798454415 
+distance->(aero)->(aquae) = 1.03904 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.41478377663908 
+Residual for stok at aquae is 0.41478377663908 
+Calculating residuals for stok at tvol 
+Current Residual Value 0 
+distance->(pyro)->(tvol) = 0.57843 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.126777972738564 
+Current Residual Value 0.126777972738564 
+distance->(aero)->(tvol) = 0.65811 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.193010454763716 
+Residual for stok at tvol is 0.193010454763716 
+Calculating residuals for stok at smel 
+Current Residual Value 0 
+distance->(pyro)->(smel) = 0.95671 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.000493775258848669 
+Current Residual Value 0.000493775258848669 
+distance->(aero)->(smel) = 0.97539 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.33070113678525 
+Residual for stok at smel is 0.33070113678525 
+Calculating residuals for stok at cpneuA 
+Current Residual Value 0 
+distance->(pyro)->(cpneuA) = 1.05041 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.0134376908542559 
+Current Residual Value 0.0134376908542559 
+distance->(aero)->(cpneuA) = 1.06909 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.460111663962059 
+Residual for stok at cpneuA is 0.460111663962059 
+Calculating residuals for stok at mpneu 
+Current Residual Value 0 
+distance->(pyro)->(mpneu) = 1.10276 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.0283151477504092 
+Current Residual Value 0.0283151477504092 
+distance->(aero)->(mpneu) = 1.12144 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.547704498083787 
+Residual for stok at mpneu is 0.547704498083787 
+Calculating residuals for stok at atum_D 
+Current Residual Value 0 
+distance->(pyro)->(atum_D) = 0.96123 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.000715083990665541 
+Current Residual Value 0.000715083990665541 
+distance->(aero)->(atum_D) = 0.97991 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.336137591878091 
+Residual for stok at atum_D is 0.336137591878091 
+Calculating residuals for stok at cglu 
+Current Residual Value 0 
+distance->(pyro)->(cglu) = 0.99734 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00395025503976003 
+Current Residual Value 0.00395025503976003 
+distance->(aero)->(cglu) = 1.01602 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.382503393443241 
+Residual for stok at cglu is 0.382503393443241 
+Calculating residuals for stok at ecoli 
+Current Residual Value 0 
+distance->(pyro)->(ecoli) = 0.94207 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 5.74723858843031e-05 
+Current Residual Value 5.74723858843031e-05 
+distance->(aero)->(ecoli) = 0.96075 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.313653800311094 
+Residual for stok at ecoli is 0.313653800311094 
+Calculating residuals for stok at cace 
+Current Residual Value 0 
+distance->(pyro)->(cace) = 0.94442 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 9.8625841585552e-05 
+Current Residual Value 9.8625841585552e-05 
+distance->(aero)->(cace) = 0.9631 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.31633246085715 
+Residual for stok at cace is 0.31633246085715 
+Calculating residuals for stok at linn 
+Current Residual Value 0 
+distance->(pyro)->(linn) = 0.9356 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 1.23444188980496e-06 
+Current Residual Value 1.23444188980496e-06 
+distance->(aero)->(linn) = 0.95428 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.306393065692802 
+Residual for stok at linn is 0.306393065692802 
+Calculating residuals for stok at mthe 
+Current Residual Value 0 
+distance->(pyro)->(mthe) = 0.45643 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.228540355463861 
+Current Residual Value 0.228540355463861 
+distance->(aero)->(mthe) = 0.64835 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.289844491888218 
+Residual for stok at mthe is 0.289844491888218 
+Calculating residuals for stok at ccre 
+Current Residual Value 0 
+distance->(pyro)->(ccre) = 0.97854 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00194049539415005 
+Current Residual Value 0.00194049539415005 
+distance->(aero)->(ccre) = 0.99722 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.357713045074788 
+Residual for stok at ccre is 0.357713045074788 
+Calculating residuals for stok at buch 
+Current Residual Value 0 
+distance->(pyro)->(buch) = 0.97187 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00139734322839374 
+Current Residual Value 0.00139734322839374 
+distance->(aero)->(buch) = 0.99055 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.349257515746194 
+Residual for stok at buch is 0.349257515746194 
+Calculating residuals for stok at synecho 
+Current Residual Value 0 
+distance->(pyro)->(synecho) = 0.98775 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00283673991628132 
+Current Residual Value 0.00283673991628132 
+distance->(aero)->(synecho) = 1.00643 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.369681030704227 
+Residual for stok at synecho is 0.369681030704227 
+Calculating residuals for stok at mtub 
+Current Residual Value 0 
+distance->(pyro)->(mtub) = 1.02407 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00802476530822572 
+Current Residual Value 0.00802476530822572 
+distance->(aero)->(mtub) = 1.04275 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.420184555535195 
+Residual for stok at mtub is 0.420184555535195 
+Calculating residuals for stok at saur_n315 
+Current Residual Value 0 
+distance->(pyro)->(saur_n315) = 0.93652 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 4.12518199412327e-06 
+Current Residual Value 4.12518199412327e-06 
+distance->(aero)->(saur_n315) = 0.9552 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.307415292000194 
+Residual for stok at saur_n315 is 0.307415292000194 
+Calculating residuals for stok at mgen 
+Current Residual Value 0 
+distance->(pyro)->(mgen) = 1.11129 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.0312586128385503 
+Current Residual Value 0.0312586128385503 
+distance->(aero)->(mgen) = 1.12997 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.563015639538197 
+Residual for stok at mgen is 0.563015639538197 
+Calculating residuals for stok at mlot 
+Current Residual Value 0 
+distance->(pyro)->(mlot) = 0.96379 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.000858551789216688 
+Current Residual Value 0.000858551789216688 
+distance->(aero)->(mlot) = 0.98247 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.339252895689965 
+Residual for stok at mlot is 0.339252895689965 
+Calculating residuals for stok at bmel 
+Current Residual Value 0 
+distance->(pyro)->(bmel) = 0.96609 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.000998626639477481 
+Current Residual Value 0.000998626639477481 
+distance->(aero)->(bmel) = 0.98477 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.342074157458446 
+Residual for stok at bmel is 0.342074157458446 
+Calculating residuals for stok at ssol 
+Current Residual Value 0 
+distance->(pyro)->(ssol) = 0.62539 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.095542158168237 
+Current Residual Value 0.095542158168237 
+distance->(aero)->(ssol) = 0.46703 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.0999347619614337 
+Residual for stok at ssol is 0.0999347619614337 
+Calculating residuals for stok at rpxx 
+Current Residual Value 0 
+distance->(pyro)->(rpxx) = 0.99506 
+sspersite->(stok)->(pyro) = 0.788005 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.00366885263167541 
+Current Residual Value 0.00366885263167541 
+distance->(aero)->(rpxx) = 1.01374 
+sspersite->(stok)->(aero) = 0.337934 
+Clockrate = 0.843247 
+Residual after adding square of (dist - (sspersite divided by clockrate)) = 0.379421573185791 
+Residual for stok at rpxx is 0.379421573185791 
+****Created music with ClusterId 316 
